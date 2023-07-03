@@ -21,6 +21,11 @@ body{
   font-weight: 700;
   font-size: 15px;
 }
+.card-body{
+  width:90%;
+  margin:auto;
+}
+  
 p{
   color:  hsl(220, 15%, 55%);
   font-weight: 400;

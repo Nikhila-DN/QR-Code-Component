@@ -10,22 +10,21 @@ body{
   background-color:  hsl(0, 0%, 100%);
   display: block;
   justify-items: auto;
-  margin: auto;
-  padding: 1.5%;
+  margin: 10% auto;
+  padding: 1rem;
   border-radius:5% ;
   font-size: 15px !important;
   text-align: center;
 }
+.card-body{
+  width: 85%;
+  margin: auto;
+}
 .card-title{
   color:  hsl(218, 44%, 22%);
   font-weight: 700;
-  font-size: 15px;
+  font-size: 1.25rem;
 }
-.card-body{
-  width:90%;
-  margin:auto;
-}
-  
 p{
   color:  hsl(220, 15%, 55%);
   font-weight: 400;

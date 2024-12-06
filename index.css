@@ -11,8 +11,8 @@ body{
   display: block;
   justify-items: auto;
   margin: 10% auto;
-  padding: 1rem;
-  border-radius:5% ;
+  padding: 16px 16px 40px 16px;
+  border-radius:20px ;
   font-size: 15px !important;
   text-align: center;
 }
@@ -24,10 +24,13 @@ body{
   color:  hsl(218, 44%, 22%);
   font-weight: 700;
   font-size: 1.25rem;
+  line-height: 120%;
 }
 p{
   color:  hsl(220, 15%, 55%);
   font-weight: 400;
+  letter-spacing: 0.2px;
+  line-height: 140%;
 }
 img{
   width: inherit;
